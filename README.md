@@ -8,6 +8,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](____)
-* [Проект 1. ______](____)
+* [Проект 1. ______](https://github.com/Dushka97/SkillFactory/tree/main/project_1)
 * [Проект 2. ______](____)
 >>>>>>> eafbd93 (Initial commit)
