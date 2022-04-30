@@ -7,7 +7,7 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/Dushka97/sf_data_science/tree/main/project_0)
+* [Проект 0. Игра: Угадай число](____)
 * [Проект 1. ______](____)
 * [Проект 2. ______](____)
 >>>>>>> eafbd93 (Initial commit)
