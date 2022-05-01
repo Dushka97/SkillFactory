@@ -3,36 +3,39 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных]()
+[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы]()
+[4. Этапы работы](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Этапы-работы)
 
-[5. Результаты]()
+[5. Результаты](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Результаты)
 
-[6. Выводы]()
+[6. Выводы](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Выводы)
 
 ### Описание проекта
 Проекет №1 от SkillFactory по профессии DataScience. Необходимо проанализировать dataset с резюме соискателей работы на сайте headhunter.ru.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Отрабатываем базовые навыки разведывательного анализ, Feature engineering, очистки данных и поиска зависимотей.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
 
 ### Краткая информация о данных
 
 Сырой dataset включает в себя 12 признаков и 44744 кейса резюме. Размер dataset составляет 434.4 Mb. Данные имеют тип данных object. Имеются пропуски в трех признаках "Опыт работы","Последнее/нынешнее место работы" и "Последняя/нынешняя должность". Для построения зависмостей и подробного анализа потребовался дополнительный dataset с данными о курсе валют на дату публикации резюме соискателя.
 
-ссылка на datasets:
+ссылка на datasetы:
+
 *сырой - https://drive.google.com/file/d/1oPGK2XQ-MzvpH2YKARaHq-Egjc0x2rDs/view?usp=sharing 
+
 *с курсами валют - https://drive.google.com/file/d/187GjUDSBZSb68LZuUX4BLFUm_F0EauWu/view?usp=sharing
+
 *обработанный - https://drive.google.com/file/d/1dXKQyRAJdKaROnFQXLMu3cS9voKe9BkU/view?usp=sharing
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
 
 ### Этапы работы
 
@@ -46,7 +49,7 @@
 
 На четвертом этапе происходила очистка данных от дублей, пустых значений, значений не несущих существенной информации и выбросов.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
 
 ### Результаты
 
@@ -62,7 +65,7 @@
 
 4) Пол.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
 
 ### Выводы
 Вывод 1. Чем выше уровень образования, тем выше уровень оплаты труда желаемый соискателем.
@@ -73,4 +76,4 @@
 
 Вывод 4. При схожем уровне образования мужской пол запрашивает выше уровень желаемой заработной платы.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_1/README.md#Оглавление)
