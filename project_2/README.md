@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Какой-кейс-решаем?)
+
 [3. Краткая информация о данных](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Краткая-информация-о-данных)
+
 [4. Этапы работы над проетом](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Этапы-работы-над-проектом)
+
 [5. Результат](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Результат)
+
 [6. Выводы](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Выводы)
 
 ### Описание проекта
