@@ -48,3 +48,5 @@
 
 ### Выводы
 Размер раковины мидий в городе Санк-Петербург больше, чем в городе Магадан.
+
+:arrow_up:[к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_2/READMEmd#Оглавление)
