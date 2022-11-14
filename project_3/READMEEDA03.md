@@ -1,7 +1,7 @@
 # Проект 3. Анализ отзывов с сайта Booking.com
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_3/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.md#Описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Какой-кейс-решаем?)
 
