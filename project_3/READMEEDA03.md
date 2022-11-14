@@ -3,15 +3,15 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.#Краткая-информация-о-данных)
 
-[4. Этапы работы над проетом](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Этапы-работы-над-проектом)
+[4. Этапы работы над проетом](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Результат)
+[5. Результат](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.#Результат)
 
-[6. Выводы](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEmd#Выводы)
+[6. Выводы](https://github.com/Dushka97/SkillFactory/blob/main/project_3/READMEEDA03.#Выводы)
 
 ### Описание проекта
 
