@@ -2,6 +2,8 @@
 # DS_skillfactory
 
 ## SF homework 
+* [HW-3. Machine learning 6]()
+* [HW-3. Machine learning 7]()
 =======
 # My data science projects
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist-pro)
