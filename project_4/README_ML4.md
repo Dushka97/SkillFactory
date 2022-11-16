@@ -1,22 +1,22 @@
 # Проект 4. Прогнозирование открытие депозита клиентами банка (Machine Learning classification)
 
 ## Оглавление
-[1. Описание проекта](/README_ML4md#Описание-проекта)
+[1. Описание проекта](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Описание-проекта)
 
-[2. Какой кейс решаем?](/README_ML4md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](README_ML4md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проетом](/README_ML4md#Этапы-работы-над-проектом)
+[4. Этапы работы над проетом](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Этапы-работы-над-проектом)
 
-[5. Результат](/README_ML4md#Результат)
+[5. Результат](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Результат)
 
-[6. Выводы](/README_ML4md#Выводы)
+[6. Выводы](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Выводы)
 
 ### Описание проета
 Имеются данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. Я должен проанализировать эти данные, выявить закономерность и найти решающие факторы, повлиявшие на то, что клиент вложил деньги именно в этот банк.
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML4md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -104,4 +104,4 @@
 - poutcome (результат прошлой маркетинговой кампании).
 
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML4md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/tree/main/project_4/README_ML4md#Оглавление)
