@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_5/README_ML_regression.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_5/README_ML_regression.md#Какой-кейс-решаем-?)
+[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_5/README_ML_regression.md#Какой-кейс-решаем?)
 
 [3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/project_5/README_ML_regression.md#Краткая-информация-о-данных)
 
