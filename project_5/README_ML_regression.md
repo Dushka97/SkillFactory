@@ -1,22 +1,22 @@
 # Проект 5. Прогнозирование времени поездки такси в городе New York (Machine Learning regression)
 
 ## Оглавление
-[1. Описание проекта](/README_ML_regression.md#Описание-проекта)
+[1. Описание проекта](/README_ML_regressionmd#Описание-проекта)
 
-[2. Какой кейс решаем?](/README_ML_regression.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](/README_ML_regressionmd#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](README_ML_regression.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](README_ML_regressionmd#Краткая-информация-о-данных)
 
-[4. Этапы работы над проетом](/README_ML_regression.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проетом](/README_ML_regressionmd#Этапы-работы-над-проектом)
 
-[5. Результат](/README_ML_regression.md#Результат)
+[5. Результат](/README_ML_regressionmd#Результат)
 
-[6. Выводы](/README_ML_regression.md#Выводы)
+[6. Выводы](/README_ML_regressionmd#Выводы)
 
 ### Описание проета
 Предстоит решить задачу машинного обучения, направленную на автоматизацию бизнес процессов. Мы построим модель, которая будет предсказывать общую продолжительность поездки такси в Нью-Йорке. 
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML_regression.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML_regressionmd#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -95,4 +95,4 @@
 
 
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML_regression.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/sf_data_science/tree/main/project_3/README_ML_regressionmd#Оглавление)
