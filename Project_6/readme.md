@@ -1,22 +1,22 @@
 # Проект 6. Сегментирование клиентов онлайн-магазина подарков
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проетом](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проетом](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Результат)
+[5. Результат](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Результат)
 
-[6. Выводы](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Выводы)
+[6. Выводы](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Выводы)
 
 ### Описание проекта
 Предстоит произвести сегментацию клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа, а также определить оптимальную стратегию взаимодействия с ними. 
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -94,4 +94,4 @@ Accuracy кластеров с помощью классификации.
 ### Выводы
 Cправились с проблемой непараметричности t-SNE и смогли перейти от решения задачи кластеризации к задаче классификации. Теперь у нас есть модель, которая на основе RFM-характеристик клиента автоматически определяет его сегмент.
 
-:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/project_6/readme.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dushka97/SkillFactory/blob/main/Project_6/readme.md#Оглавление)
