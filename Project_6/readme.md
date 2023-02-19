@@ -43,6 +43,10 @@
 
 - Country — название страны, в которой проживает клиент.
 
+Данные без предобработки доступны по ссылке: https://drive.google.com/file/d/1Y_23Z3p5yVWUlr2E5UaLgzLR21Fniwra/view?usp=share_link
+
+Данные с предобработкой доступны по ссылке: https://drive.google.com/file/d/1Fp8COrCKhwNpZeCFR8gSyfKT-41qU6IQ/view?usp=share_link
+
 **Метрика качества**
 
 Accuracy кластеров с помощью классификации.
